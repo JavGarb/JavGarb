@@ -1,4 +1,4 @@
-### Hola! Mi nombre es Javier Garbalena 👋
+# Hola! Mi nombre es Javier Garbalena 👋
 ## JavGarb en GitHub
 
 <!--
