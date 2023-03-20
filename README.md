@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javgarb" alt="javgarb" /></a> </p>
 
-- 🔭 Actualmente me encuentro trabajando en dar mas detalles al [proyecto final del bootcamp fitU](https://final-henry-g6.netlify.app/)
 
 - 🌱 Actualmente estoy aprendiendo **Spring, Spring Boot**
 
