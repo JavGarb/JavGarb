@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Vue-js**
 
-- 👨‍💻 todos mis proyectos disponibles [https://portafolio-weld-zeta.vercel.app](En Proceso)
+- 👨‍💻 todos mis proyectos disponibles [https://portafolio-weld-zeta.vercel.app](https://portafolio-weld-zeta.vercel.app/)   (En Proceso)
 
 - 💬 Preguntame sobre **React-Js, Vue-Js, Javascript, Java, Redux, Visual Basic, Express, Sequelize**
 
