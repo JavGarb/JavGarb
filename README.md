@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente me encuentro trabajando en mi portafolio
 
-- 🌱 Actualmente estoy aprendiendo **Vue-js**
+- 🌱 Actualmente estoy aprendiendo **Angular**
 
 - 👨‍💻 todos mis proyectos disponibles [https://jgarbalena.vercel.app/](https://jgarbalena.vercel.app/)   (En Proceso)
 
