@@ -11,7 +11,7 @@
 
 - 👨‍💻 todos mis proyectos disponibles https://jgarbalena.vercel.app/
 
-- 💬 Preguntame sobre **React-Js, Vue-Js, Javascript, Java, Redux, Visual Basic, Express, Sequelize**
+- 💬 Preguntame sobre **React-Js, Vue-Js, Javascript, Java, python, django, flask, Redux, Visual Basic, Express, Sequelize**
 
 - 📫 Mi e-mail de contacto **olguiyjavi@gmail.com**
 
