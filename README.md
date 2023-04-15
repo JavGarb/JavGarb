@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javgarb" alt="javgarb" /></a> </p>
 
-- 🔭 Actualmente me encuentro trabajando en dar mas detalles al [proyecto final del bootcamp fitU](https://final-henry-g6.netlify.app/)
+- 🔭 Actualmente me encuentro trabajando en e-commerce Nextjs/Express
 
 - 🌱 Actualmente estoy aprendiendo **Vue-js**
 
-- 👨‍💻 todos mis proyectos disponibles [Proximamente el portfolio](Proximamente el portfolio)
+- 👨‍💻 todos mis proyectos disponibles https://jgarbalena.vercel.app/
 
 - 💬 Preguntame sobre **React-Js, Vue-Js, Javascript, Java, Redux, Visual Basic, Express, Sequelize**
 
