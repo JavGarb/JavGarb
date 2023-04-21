@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente me encuentro trabajando en e-commerce Nextjs/Express
 
-- 🌱 Actualmente estoy aprendiendo **Vue-js**
+- 🌱 Actualmente estoy aprendiendo **Django**
 
 - 👨‍💻 todos mis proyectos disponibles https://jgarbalena.vercel.app/
 
