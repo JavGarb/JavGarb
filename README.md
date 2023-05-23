@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javgarb" alt="javgarb" /></a> </p>
 
-- 🔭 Actualmente me encuentro trabajando en e-commerce Nextjs/Express
+- 🔭 Actualmente me encuentro trabajando en e-commerce Angular/Nestjs
 
-- 🌱 Actualmente estoy aprendiendo **Django/Angular**
+- 🌱 Actualmente estoy aprendiendo **Nestjs**
 
 - 👨‍💻 todos mis proyectos disponibles https://jgarbalena.vercel.app/
 
