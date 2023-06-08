@@ -7,11 +7,11 @@
 
 - 🔭 Actualmente me encuentro trabajando en e-commerce Angular/Nestjs
 
-- 🌱 Actualmente estoy aprendiendo **Nestjs**
+- 🌱 Actualmente estoy aprendiendo **Nestjs y PhP**
 
 - 👨‍💻 todos mis proyectos disponibles https://jgarbalena.vercel.app/
 
-- 💬 Preguntame sobre **React-Js, Vue-Js, Javascript, Java, python, django, flask, Redux, Visual Basic, Express, Sequelize**
+- 💬 Preguntame sobre **React-Js, Vue-Js, Angular, Javascript, Java, python, django, flask, Redux, Visual Basic, Express, Sequelize, Moongose**
 
 - 📫 Mi e-mail de contacto **olguiyjavi@gmail.com**
 
