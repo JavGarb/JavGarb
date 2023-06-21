@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente me encuentro trabajando en e-commerce Angular/Nestjs
 
-- 🌱 Actualmente estoy aprendiendo **Nestjs y PhP**
+- 🌱 Actualmente estoy aprendiendo **Nestjs y PhP/laravel**
 
 - 👨‍💻 todos mis proyectos disponibles https://jgarbalena.vercel.app/
 
