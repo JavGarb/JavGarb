@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javgarb" alt="javgarb" /></a> </p>
 
-- 🔭 Actualmente me encuentro trabajando en e-commerce Angular/Nestjs
-
-- 🌱 Actualmente estoy aprendiendo **Nestjs y PhP/laravel**
-
-- 👨‍💻 todos mis proyectos disponibles https://jgarbalena.vercel.app/
-
-- 💬 Preguntame sobre **React-Js, Javascript, Redux, Visual Basic, Express, Sequelize**
-
 - 📫 Mi e-mail de contacto **olguiyjavi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
