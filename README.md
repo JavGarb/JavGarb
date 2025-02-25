@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Javier Garbalena</h1>
-<h3 align="center">Un apasionado Full Stack Developer</h3>
+<h1 align="center">Hi 👋, They call me JavGarb</h1>
+<h3 align="center">I'm Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javgarb&label=Profile%20views&color=0e75b6&style=flat" alt="javgarb" /> </p>
 
